@@ -8,6 +8,12 @@
 <a href="https://instagram.com/https://instagram.com/_.thanuja._?igshid=ymjhnjkznzy=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/_.thanuja._?igshid=ymjhnjkznzy=" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucfhouyzctk4fdxepamogafq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucfhouyzctk4fdxepamogafq" height="30" width="40" /></a>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=it21096570&show_icons=true&locale=en&layout=compact" alt="it21096570" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=it21096570&show_icons=true&locale=en" alt="it21096570" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=it21096570&" alt="it21096570" /></p>
 <!---
 thanujaAvenir/thanujaAvenir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

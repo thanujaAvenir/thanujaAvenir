@@ -1,4 +1,7 @@
-- 👋 Hi, I’m Thanuja Wickramasinghe
+
+<h1 align="center">Hi 👋, I'm Thanuja Wickramasinghe</h1>
+<h3 align="center">Associate Software Engineer</h3>
+
 - 📫 How to reach me  - Thanuja.w@avenir.lk
 
 <h3 align="left">Connect with me:</h3>
